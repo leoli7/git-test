@@ -7,11 +7,11 @@ public class git {
         System.out.println("fafafafa");
         System.out.println("fafafafa");
         System.out.println("fafafafa");
-
+        //test
     }
     public void test(){
         int i = 10;
         i+=10;
-
+        System.out.println(i);
     }
 }
