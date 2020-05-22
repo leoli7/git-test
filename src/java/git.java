@@ -9,4 +9,9 @@ public class git {
         System.out.println("fafafafa");
 
     }
+    public void test(){
+        int i = 10;
+        i+=10;
+
+    }
 }
